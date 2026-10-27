@@ -1,5 +1,5 @@
 
-/* ==================== GLOBAL STYLES ==================== */
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -69,7 +69,7 @@ button:disabled {
   min-width: 0;
 }
 
-/* ==================== NAVBAR ==================== */
+
 .navbar {
   width: 100%;
   min-height: 78px;
@@ -199,7 +199,7 @@ button:disabled {
   line-height: 1.2;
 }
 
-/* ==================== EVENTS TABLE ==================== */
+
 .table-section {
   min-width: 0;
   padding: 25px;
@@ -345,7 +345,7 @@ td:first-child {
   transform: translateY(-1px);
 }
 
-/* ==================== EMPTY STATE ==================== */
+
 .empty-state {
   padding: 45px 20px;
   text-align: center;
@@ -366,7 +366,7 @@ td:first-child {
   line-height: 1.6;
 }
 
-/* ==================== FORMS ==================== */
+
 .form-page {
   display: flex;
   align-items: flex-start;
@@ -476,7 +476,7 @@ td:first-child {
   min-height: 42px;
 }
 
-/* ==================== REGISTRATION PAGE ==================== */
+
 .registration-page {
   display: grid;
   grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
@@ -543,7 +543,7 @@ td:first-child {
   font-weight: 650;
 }
 
-/* ==================== ERROR MESSAGES ==================== */
+
 .error-message {
   padding: 12px 14px;
   margin: 15px 0;
@@ -556,7 +556,7 @@ td:first-child {
   overflow-wrap: anywhere;
 }
 
-/* ==================== FOOTER ==================== */
+
 .footer {
   width: 100%;
   margin-top: auto;
